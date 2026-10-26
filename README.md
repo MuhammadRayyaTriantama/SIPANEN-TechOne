@@ -15,8 +15,18 @@ Informasi tentang kondisi lahan, hasil panen, dan harga komoditas pertanian masi
 
 ## Anggota Kelompok
 
-| Nama                      | NIM      | Peran |
-| Ananda Farrel Saputra     | 25523192 | Project Manager |
-| Rafi Adzkaulhuda Nasution | 25523092 | Frontend dan UI/UX |
-| Duta Rayyan Habibie       | 25523273 | Backend dan Database |
-| Muhammad Rayya Triantama  | 25523278 | Network dan IoT |
+Nama: Ananda Farrel Saputra
+NIM: 25523192
+Peran: Project Manager
+
+Nama: Rafi Adzkaulhuda Nasution
+NIM: 25523092
+Peran: Frontend dan UI/UX
+
+Nama: Duta Rayyan Habibie
+NIM: 25523273
+Peran: Backend dan Database
+
+Nama: Muhammad Rayya Triantama
+NIM: 25523278
+Peran: Network dan IoT
